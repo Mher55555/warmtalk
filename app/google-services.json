@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776355877041",
+    "firebase_url": "https://fstcall-default-rtdb.firebaseio.com",
+    "project_id": "fstcall",
+    "storage_bucket": "fstcall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776355877041:android:86f7d85358380708e01290",
+        "android_client_info": {
+          "package_name": "com.messageapp.warmtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776355877041-2hg0c0ma9m31h8vdpgd07klpi3kkejkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.messageapp.warmtalk",
+            "certificate_hash": "b05a45fb18cdf14246d28547b0a82fd4ab337597"
+          }
+        },
+        {
+          "client_id": "776355877041-ti3oc7jo3ae4hf4mmt8rkp5is8a4qeua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7GT5CorJtUzYn7ZIPfcUQMA0IR9Sfrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776355877041-ti3oc7jo3ae4hf4mmt8rkp5is8a4qeua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
